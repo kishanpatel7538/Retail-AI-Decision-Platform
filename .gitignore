@@ -14,11 +14,12 @@ venv/
 .DS_Store
 ```
 ```
-# datasets
+```
+# Data files
 data/raw/*
 data/processed/*
 
-# allow folder structure
+# Keep folder structure
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 ```
