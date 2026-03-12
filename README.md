@@ -97,7 +97,7 @@ Retail managers can:
 ---
 
 ## Author
-
+kishan patel
 Data Science Portfolio Project
 
 ```
